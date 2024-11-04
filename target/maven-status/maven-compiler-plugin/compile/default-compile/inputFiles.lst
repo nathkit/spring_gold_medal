@@ -1,0 +1,11 @@
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/model/Medals.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/repositories/GoldMedalRepository.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/repositories/CountryRepository.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/model/GoldMedal.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/controller/GoldMedalController.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/model/CountriesResponse.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/model/CountrySummary.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/model/CountryMedalsListResponse.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/GoldMedalApplication.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/model/CountryDetailsResponse.java
+/home/nathkit/learning/learn-java/codecademy/spring/goldmedal/src/main/java/com/codecademy/goldmedal/model/Country.java
